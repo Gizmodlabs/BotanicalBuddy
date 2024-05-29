@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotanicalBuddy.Api", "BotanicalBuddy.Api\BotanicalBuddy.Api.csproj", "{84319874-8578-4999-A8A7-D1ADC0C9BD37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotanicalBuddy.Core", "BotanicalBuddy.Core\BotanicalBuddy.Core.csproj", "{47EA7D6C-E4A5-4BDF-B864-4081EA038DA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84319874-8578-4999-A8A7-D1ADC0C9BD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84319874-8578-4999-A8A7-D1ADC0C9BD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84319874-8578-4999-A8A7-D1ADC0C9BD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84319874-8578-4999-A8A7-D1ADC0C9BD37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47EA7D6C-E4A5-4BDF-B864-4081EA038DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EA7D6C-E4A5-4BDF-B864-4081EA038DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EA7D6C-E4A5-4BDF-B864-4081EA038DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EA7D6C-E4A5-4BDF-B864-4081EA038DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
