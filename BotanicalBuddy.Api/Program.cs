@@ -9,6 +9,8 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+var connString = builder.Configuration.GetConnectionString("BotanicalBuddyContext");
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
